@@ -14,7 +14,7 @@ This course will focus on practical programming skills that you can apply to rea
 4. Clone this repository: You can clone this repository using the following command:
 
 ```bash
-git clone
+git clone https://github.com/Adi-UA/PracticalSWE101.git
 ```
 
 ## Section 1: Introduction to Python and Programming
