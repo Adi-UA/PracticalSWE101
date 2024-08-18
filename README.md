@@ -1,8 +1,10 @@
-# Practical Software Engineering 101 (in Python)
+# Practical Software Engineering 101
 
-Welcome to Software Engineering 101! This course is designed to introduce you to the basics of programming using Python. Whether you're a complete beginner or have some experience with programming, this course will help you build a solid foundation in programming concepts and techniques. Go through the seconds from top to bottom in order including the projects to get the most out of this course.
+Welcome to Software Engineering 101! This course is designed to introduce you to the basics of programming using Python. While the majority of the course will focus on Python, the concepts you learn here will be applicable to other programming languages as well. In fact the challenge projects will require you to learn some HTML, CSS, and JavaScript to create a simple web interface for the chatbot and image generation tool you will create.This will help make sure that the concepts you learn are transferrable to other programming languages. In the real world, SDEs are expected to learn new programming languages and technologies quickly as well!
 
-This course will focus on practical programming skills that you can apply to real-world problems. You will learn how to write Python programs to solve various tasks, from simple calculations to more complex data processing and analysis.
+Whether you're a complete beginner or have some experience with programming, this course will help you build a solid foundation in programming concepts and techniques. Go through the seconds from top to bottom in order including the projects to get the most out of this course.
+
+This course will focus on practical programming skills that you can apply to real-world problems. You will learn how to write Python programs to solve various tasks, from simple calculations to more complex data processing and analysis. It is not meant to be a comprehensive guide to programming, but rather a hands-on introduction to programming concepts and techniques. At times it will be challenging, but the gol is to have you gain practical skills as quickly as possible. If you have any questions or need help, feel free to ask the instructor!
 
 ## Setup
 
